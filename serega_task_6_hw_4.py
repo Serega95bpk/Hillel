@@ -1,5 +1,0 @@
-x: tuple = ('1', '2', '3')
-x1 = list(x)
-x1.remove(x1[2])
-x = tuple(x1)
-print(x)
